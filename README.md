@@ -45,11 +45,10 @@ Published in:
 <img width="1028" height="403" alt="Reader Result 2" src="https://github.com/user-attachments/assets/af484b1b-1817-4d75-b96c-1ffe7b514dae" />
 <img width="903" height="468" alt="Reader Result" src="https://github.com/user-attachments/assets/4e643aa2-fe31-472c-a475-bb81728dbe11" />
 
-
-
-
-
-
 ## Team
+H NITHYA 
+HARSHINI RAMANAN 
+MAHESWAR REDDY O 
+KRISHNA MURTHY N 
 Mini Project – Department of Electronics & Communication Engineering  
 Dayananda Sagar College of Engineering, Bengaluru
