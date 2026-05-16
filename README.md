@@ -38,6 +38,7 @@ The project work was also documented in a published paper:
 
 Published in:  
 **Grenze International Journal of Engineering and Technology (2024)**
+<img width="672" height="782" alt="Intellicart Paper SS" src="https://github.com/user-attachments/assets/df62c08c-b51b-4514-ab63-01a93a51772c" />
 
 ## Project Images
 <img width="918" height="604" alt="Smart Shopping Cart" src="https://github.com/user-attachments/assets/56b4a253-db33-42b3-bda4-08b507f5433c" />
