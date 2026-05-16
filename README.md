@@ -40,6 +40,14 @@ Published in:
 **Grenze International Journal of Engineering and Technology (2024)**
 <img width="672" height="782" alt="Intellicart Paper SS" src="https://github.com/user-attachments/assets/df62c08c-b51b-4514-ab63-01a93a51772c" />
 
+## Conference Presentation
+
+The project was also presented at:
+
+**National Conference on Electronics & Communication Engineering (NCEC-2024)**  
+Dayananda Sagar College of Engineering, Bengaluru
+<img width="903" height="521" alt="Intellicart Paper Presenting Certificate" src="https://github.com/user-attachments/assets/070ae065-6ee1-4660-a4f2-4518cb384fbf" />
+
 ## Project Images
 <img width="918" height="604" alt="Smart Shopping Cart" src="https://github.com/user-attachments/assets/56b4a253-db33-42b3-bda4-08b507f5433c" />
 <img width="1028" height="403" alt="Reader Result 2" src="https://github.com/user-attachments/assets/af484b1b-1817-4d75-b96c-1ffe7b514dae" />
